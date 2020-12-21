@@ -25,7 +25,7 @@
 
 
 ### C/C++系列
-[C/C\+\+系列](#cc系列)
+
 
 - **C Primer Plus 第六版 中/英 .pdf**  链接: https://pan.baidu.com/s/1UgXtsU5iWHtRpfs2Ww37ag 提取码: 5cvg 
 - **斯坦福**
