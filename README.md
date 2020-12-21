@@ -3,9 +3,12 @@
 ### 白熊妙妙屋 :收集整合学习路上的资源和一些所思所想,也欢迎大家分享好的资源和想法,一起壮大白熊妙妙屋~！愿大家与白熊一同成长,变得更强。
 因为还要打工,所以更新会比较慢,还请各位小伙伴见谅~(如果链接失效,请提醒白熊更换):bear: 欢迎关注公众号:**白熊的成长之路**
 
-* [计算机基础(底层)知识](#计算机基础(底层)知识)
-* [C/C++系列](#C/C++系列)
+ * [计算机基础(底层)知识](#计算机基础底层知识)
+ * [C/C\+\+系列](#cc系列)
+ * [数学系列](#数学系列)
+
 ### 计算机基础(底层)知识
+  [**计算机基础(底层)知识**](#计算机基础底层知识)
 - [**MIT EE 和CS 公开课**](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [**卡耐基梅隆大学的计算机体系结构课程**](https://www.bilibili.com/video/BV1PT4y1M7gM?from=search&seid=9393633591495439033)
 - [**视频编解码基础知识**](https://github.com/leandromoreira/digital_video_introduction)
@@ -22,6 +25,8 @@
 
 
 ### C/C++系列
+[C/C\+\+系列](#cc系列)
+
 - **C Primer Plus 第六版 中/英 .pdf**  链接: https://pan.baidu.com/s/1UgXtsU5iWHtRpfs2Ww37ag 提取码: 5cvg 
 - **斯坦福**
 - **C++ Primer Plus**   待补充
@@ -38,6 +43,7 @@
 
 
 ### 数学系列
+[数学系列](#数学系列)
 - [**100年前的微积分入门**](https://www.gutenberg.org/files/33283/33283-pdf.pdf)
 - [**线代入门教材**](https://link.springer.com/book/10.1007/978-3-319-11080-6)
 - [**线代教程** 图文并茂 超赞](http://textbooks.math.gatech.edu/ila/index.html)
